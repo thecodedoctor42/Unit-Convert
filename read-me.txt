@@ -1,0 +1,3 @@
+An app that converts metric/imperial measurements
+
+Also contains the code for light/dark modes
